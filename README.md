@@ -66,7 +66,13 @@ the final maximum profit."
 
 ## Output
 
-The generated visualization is available in `Visualization.png`.
+The generated Dynamic Programming table is shown below.
+
+![Knapsack DP Table](Visualization.png)
+
+### Result
+
+**Maximum Profit = 13**
 
 ## Learning Outcome
 
